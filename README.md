@@ -2,4 +2,5 @@ The project organizes the user's contact information - add, delete, update, and 
 
 Technologies: JS, HTML, CSS
 
-To run the application: download the project folder and open the index.html file in the browser.
+To run the application: 
+Download the project folder and open the index.html file in the browser.
